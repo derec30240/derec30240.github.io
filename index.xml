@@ -1,4 +1,25 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Dr. Kee's Blog</title><link>https://derec30240.github.io/</link><description>Recent content on Dr. Kee's Blog</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><copyright>© 2025 by Dr. Kee. All Rights Reserved.</copyright><lastBuildDate>Tue, 15 Jul 2025 17:54:24 +0800</lastBuildDate><atom:link href="https://derec30240.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>测试Markdown兼容性</title><link>https://derec30240.github.io/posts/%E6%B5%8B%E8%AF%95markdown%E5%85%BC%E5%AE%B9%E6%80%A7/</link><pubDate>Tue, 15 Jul 2025 17:54:24 +0800</pubDate><guid>https://derec30240.github.io/posts/%E6%B5%8B%E8%AF%95markdown%E5%85%BC%E5%AE%B9%E6%80%A7/</guid><description>&lt;h1 class="relative group">Markdown Cheat Sheet
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Dr. Kee's Blog</title><link>https://derec30240.github.io/</link><description>Recent content on Dr. Kee's Blog</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><copyright>© 2025 by Dr. Kee. All Rights Reserved.</copyright><lastBuildDate>Tue, 15 Jul 2025 21:58:44 +0800</lastBuildDate><atom:link href="https://derec30240.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>关于</title><link>https://derec30240.github.io/about/</link><pubDate>Tue, 15 Jul 2025 21:58:44 +0800</pubDate><guid>https://derec30240.github.io/about/</guid><description>&lt;h1 id="typeit-2bc053111729a74bce2ff033e7cdfe90">&lt;/h1>
+&lt;script>
+document.addEventListener("DOMContentLoaded", function () {
+new TypeIt("#typeit-2bc053111729a74bce2ff033e7cdfe90", {
+strings: ["","Hi there 🖖 我是Dr. Kee","欢迎来到我的博客站",""],
+speed: 100 ,
+lifeLike: true ,
+startDelay: 0 ,
+breakLines: false ,
+waitUntilVisible: true ,
+loop: true
+}).go();
+});
+&lt;/script>
+&lt;h2 class="relative group">关于我
+&lt;div id="关于我" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%e5%85%b3%e4%ba%8e%e6%88%91" aria-label="锚点">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>我是Dr. Kee，一名就读于西安的医学生，对编程和一些新鲜技术比较感兴趣。目前，我在空闲时间会做一些Python、Flutter和C#等方面的小项目。另一方面，我对于编写Minecraft的模组非常好奇，但苦于精力有限，未能充分涉足。&lt;/p></description></item><item><title>测试Markdown兼容性</title><link>https://derec30240.github.io/posts/%E6%B5%8B%E8%AF%95markdown%E5%85%BC%E5%AE%B9%E6%80%A7/</link><pubDate>Tue, 15 Jul 2025 17:54:24 +0800</pubDate><guid>https://derec30240.github.io/posts/%E6%B5%8B%E8%AF%95markdown%E5%85%BC%E5%AE%B9%E6%80%A7/</guid><description>&lt;h1 class="relative group">Markdown Cheat Sheet
 &lt;div id="markdown-cheat-sheet" class="anchor">&lt;/div>
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
