@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>首页 on Dr. Kee's Blog</title><link>https://derec30240.github.io/</link><description>Recent content in 首页 on Dr. Kee's Blog</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><copyright>© 2025 by Dr. Kee. All Rights Reserved.</copyright><lastBuildDate>Wed, 16 Jul 2025 00:38:35 +0800</lastBuildDate><atom:link href="https://derec30240.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>关于</title><link>https://derec30240.github.io/about/</link><pubDate>Tue, 15 Jul 2025 21:58:44 +0800</pubDate><guid>https://derec30240.github.io/about/</guid><description>&lt;h1 id="typeit-2bc053111729a74bce2ff033e7cdfe90">&lt;/h1>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>首页 on Dr. Kee's Blog</title><link>https://derec30240.github.io/</link><description>Recent content in 首页 on Dr. Kee's Blog</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><copyright>© 2025 by Dr. Kee. All Rights Reserved.</copyright><lastBuildDate>Wed, 16 Jul 2025 00:38:35 +0800</lastBuildDate><atom:link href="https://derec30240.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>使用 Hugo + Github Pages 搭建个人博客</title><link>https://derec30240.github.io/posts/%E4%BD%BF%E7%94%A8hugo+github-pages%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</link><pubDate>Thu, 17 Jul 2025 23:59:13 +0800</pubDate><guid>https://derec30240.github.io/posts/%E4%BD%BF%E7%94%A8hugo+github-pages%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</guid><description>&lt;blockquote>
+&lt;p>本文将介绍 Windows 环境下，使用 Hugo 与 Blowfish 主题，在 Github Pages 上搭建个人博客，并使用 Github Actions 自动推送静态网站的方法。&lt;/p></description></item><item><title>关于</title><link>https://derec30240.github.io/about/</link><pubDate>Tue, 15 Jul 2025 21:58:44 +0800</pubDate><guid>https://derec30240.github.io/about/</guid><description>&lt;h1 id="typeit-2bc053111729a74bce2ff033e7cdfe90">&lt;/h1>
 &lt;script>
 document.addEventListener("DOMContentLoaded", function () {
 new TypeIt("#typeit-2bc053111729a74bce2ff033e7cdfe90", {
@@ -19,14 +20,4 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%e5%85%b3%e4%ba%8e%e6%88%91" aria-label="锚点">#&lt;/a>
 &lt;/span>
 &lt;/h2>
-&lt;p>我是Dr. Kee，一名就读于西安的医学生，对编程和一些新鲜技术比较感兴趣。目前，我在空闲时间会做一些Python、Flutter和C#等方面的小项目。另一方面，我对于编写Minecraft的模组非常好奇，但苦于精力有限，未能充分涉足。&lt;/p></description></item><item><title>测试Markdown兼容性</title><link>https://derec30240.github.io/posts/%E6%B5%8B%E8%AF%95markdown%E5%85%BC%E5%AE%B9%E6%80%A7/</link><pubDate>Tue, 15 Jul 2025 17:54:24 +0800</pubDate><guid>https://derec30240.github.io/posts/%E6%B5%8B%E8%AF%95markdown%E5%85%BC%E5%AE%B9%E6%80%A7/</guid><description>&lt;h1 class="relative group">Markdown Cheat Sheet
-&lt;div id="markdown-cheat-sheet" class="anchor">&lt;/div>
-&lt;span
-class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#markdown-cheat-sheet" aria-label="锚点">#&lt;/a>
-&lt;/span>
-&lt;/h1>
-&lt;p>Thanks for visiting &lt;a
-href="https://www.markdownguide.org"
-target="_blank"
->The Markdown Guide&lt;/a>!&lt;/p></description></item></channel></rss>
+&lt;p>我是Dr. Kee，一名就读于西安的医学生，对编程和一些新鲜技术比较感兴趣。目前，我在空闲时间会做一些Python、Flutter和C#等方面的小项目。另一方面，我对于编写Minecraft的模组非常好奇，但苦于精力有限，未能充分涉足。&lt;/p></description></item></channel></rss>
